@@ -43,7 +43,7 @@ a{color: var(--black);text-decoration: underline;}
 .title{color:var(--tertiarycolor) !important; font-family:"Source Code Pro",sans-serif !important;font-style: normal !important; font-weight: normal !important;}
 
 /* Footer */
-.footer{background-color: var(--black);color: var(--white);}
+.footer{background-color: var(--black);color: var(--white);padding-top: 12px;padding-bottom: 12px;padding-left: 16px;margin-top: 40px}
 
 /* Sidebar */
 #toctitle{font-family: "Source Code Pro",sans-serif;}
