@@ -1,10 +1,15 @@
 :doctype: article
 
 == Stefan Sitani
+
 :!toc:
+//:linkcss:
+:imagesdir: images/
+:stylesdir: css/
+:stylesheet: print.css
 
 //+420 775 169 615 +
-++ssitani@redhat.com++ +
+ssitani@redhat.com +
 IRC: ssitani +
 Brno, Czech Republic
 //stefan.sitani@gmail.com
