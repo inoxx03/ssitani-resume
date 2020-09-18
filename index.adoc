@@ -5,6 +5,9 @@
 //:imagesdir: images/
 :stylesdir: stylesheets/
 :stylesheet: monospace.css
+:docinfo:
+:last-update-label!:
+:nofooter:
 
 
 = Stefan Sitani
