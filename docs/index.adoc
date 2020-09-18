@@ -7,7 +7,7 @@
 :stylesheet: plain.css
 
 
-== Stefan Sitani
+= Stefan Sitani
 
 //+420 775 169 615 +
 ssitani@redhat.com +
@@ -86,7 +86,7 @@ _May 2016 - January 2017_ +
 * Convert community documentation in Markdown to AsciiDoc for publishing on the Red Hat Customer Portal
 * Align the delivery of documentation updates with he SCRUM development cycle of the product
 
-= Other Published Content
+== Other Published Content
 
 .AsciiDoc Tutorial
 
