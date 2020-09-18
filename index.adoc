@@ -2,19 +2,22 @@
 
 :!toc:
 //:linkcss:
-//:imagesdir: images/
+:imagesdir: images/
 :stylesdir: stylesheets/
 :stylesheet: monospace.css
 :docinfo:
 :last-update-label!:
 :nofooter:
+:linkattrs:
 
 
 = Stefan Sitani
 
 //+420 775 169 615 +
+//He/Him
 ssitani@redhat.com +
 IRC: ssitani +
+GitHub: link:https://github.com/inoxx03[inoxx03^] +
 Brno, Czech Republic
 //stefan.sitani@gmail.com
 //TODO: Add image icons with hyperlinks to GH, Internal GL, Rover, Linkedin, etc.
