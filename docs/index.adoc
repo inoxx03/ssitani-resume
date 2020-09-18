@@ -1,12 +1,13 @@
 :doctype: article
 
-== Stefan Sitani
-
 :!toc:
 //:linkcss:
-:imagesdir: images/
-:stylesdir: css/
-:stylesheet: print.css
+//:imagesdir: images/
+//:stylesdir: css/
+//:stylesheet: print.css
+
+
+== Stefan Sitani
 
 //+420 775 169 615 +
 ssitani@redhat.com +
