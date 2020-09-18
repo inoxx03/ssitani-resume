@@ -9,48 +9,52 @@
 <style>
 /* Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
 
-@import url(//fonts.googleapis.com/css?family=Noto+Sans);
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
 @import url(//asciidoctor.org/stylesheets/asciidoctor.css); /* Default asciidoc style framework - important */
 
 /* CUSTOMISATIONS */
 /* Change the values in root for quick customisation. If you want even more fine grain... venture further. */
+
 :root{
 --maincolor:#FFFFFF;
 --primarycolor:#000000;
---secondarycolor:#AAAAAA;
---tertiarycolor:#CCCCCC;
---sidebarbackground:#CACACA;
---linkcolor:#0D47A1;
---linkcoloralternate:#B71C1C;
+--secondarycolor:#000000;
+--tertiarycolor: #000000;
+--sidebarbackground:#CCC;
+--linkcolor:#000000;
+--linkcoloralternate:#808080; /*override default link color: #f44336*/
 --white:#FFFFFF;
 --black:#000000;
 }
 
+/*
+TODO: set colors for dark mode
+
+:root{
+--maincolor:#FFFFFF;
+--primarycolor:#000000;
+--secondarycolor:#000000;
+--tertiarycolor: #000000;
+--sidebarbackground:#CCC;
+--linkcolor:#000000;
+--linkcoloralternate:#808080;
+--white:#FFFFFF;
+--black:#000000;
+}
+*/
+
+body{font-family: "Source Code Pro",sans-serif;max-width: 60%;margin: auto;}
+
 /* Text styles */
+h1{color:var(--primarycolor) !important; font-family: "Source Code Pro",sans-serif;}
+h2,h3,h4,h5,h6{color:var(--secondarycolor) !important; font-family: "Source Code Pro",sans-serif;}
+a{color: var(--black);text-decoration: underline;}
+.title{color:var(--tertiarycolor) !important; font-family:"Source Code Pro",sans-serif !important;font-style: normal !important; font-weight: normal !important;}
 
-
-body{font-family: "Noto Sans",sans-serif;background-color: var(--maincolor);color:var(--black);max-width: 60%;margin: auto;}
-
-h1{color:var(--primarycolor) !important;font-family:"Noto Sans",sans-serif;}
-h2,h3,h4,h5,h6{color:var(--secondarycolor) !important;font-family:"Noto Sans",sans-serif;}
-.title{color:var(--black) !important;font-family:"Noto Sans",sans-serif;font-style: normal; font-weight: normal;}
-a{text-decoration: none;}
-p{font-family: "Noto Sans",sans-serif ! important}
-#toc.toc2 a:link{color:var(--linkcolor);}
-blockquote{color:var(--secondarycolor) !important}
-.quoteblock{color:var(--black)}
-.quoteblock blockquote:before{color:var(--black)}
-code{color:var(--white);background-color: var(--secondarycolor) !important}
-mark{background-color: var(--tertiarycolor)} /* Text highlighting color */
-
-/* Table styles */
-th{background-color: var(--maincolor);color:var(--black) !important;}
-td{background-color: var(--maincolor);color: var(--black) !important}
-
-footer{background-color: var(--maincolor);color:var(--sidebarbackground);}
-
-#toc.toc2{background-color:var(--sidebarbackground);}
-#toctitle{color:var(--white);}
+/* Sidebar */
+#toctitle{font-family: "Source Code Pro",sans-serif;}
+.sectlevel1{font-family: "Source Code Pro",sans-serif!important;}
+.sectlevel2{font-family: "Source Code Pro",sans-serif!important;}
 
 /* Responsiveness fixes */
 video {
@@ -351,7 +355,7 @@ I consider the recent shift of strategic focus at Red Hat towards providing mana
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2020-09-18 20:39:43 +0200
+Last updated 2020-09-18 21:33:32 +0200
 </div>
 </div>
 </body>

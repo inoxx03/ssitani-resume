@@ -38,7 +38,7 @@ mark{background-color: var(--tertiarycolor)} /* Text highlighting color */
 th{background-color: var(--maincolor);color:var(--black) !important;}
 td{background-color: var(--maincolor);color: var(--black) !important}
 
-footer{background-color: var(--maincolor);color:var(--sidebarbackground);}
+/* #footer{max-width: 100%;background-color: var(--maincolor);color:var(--primarycolor);} */
 
 #toc.toc2{background-color:var(--sidebarbackground);}
 #toctitle{color:var(--white);}

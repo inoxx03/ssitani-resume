@@ -4,7 +4,7 @@
 //:linkcss:
 //:imagesdir: images/
 :stylesdir: stylesheets/
-:stylesheet: plain.css
+:stylesheet: monospace.css
 
 
 = Stefan Sitani
@@ -14,6 +14,7 @@ ssitani@redhat.com +
 IRC: ssitani +
 Brno, Czech Republic
 //stefan.sitani@gmail.com
+//TODO: Add image icons with hyperlinks to GH, Internal GL, Rover, Linkedin, etc.
 
 == Objectives
 

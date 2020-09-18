@@ -13,16 +13,33 @@
 --tertiarycolor: #000000;
 --sidebarbackground:#CCC;
 --linkcolor:#000000;
---linkcoloralternate:#f44336;
+--linkcoloralternate:#808080; /*override default link color: #f44336*/
 --white:#FFFFFF;
 --black:#000000;
 }
 
-body{font-family: "Source Code Pro",sans-serif;}
+/*
+TODO: set colors for dark mode
+
+:root{
+--maincolor:#FFFFFF;
+--primarycolor:#000000;
+--secondarycolor:#000000;
+--tertiarycolor: #000000;
+--sidebarbackground:#CCC;
+--linkcolor:#000000;
+--linkcoloralternate:#808080;
+--white:#FFFFFF;
+--black:#000000;
+}
+*/
+
+body{font-family: "Source Code Pro",sans-serif;max-width: 60%;margin: auto;}
 
 /* Text styles */
 h1{color:var(--primarycolor) !important; font-family: "Source Code Pro",sans-serif;}
 h2,h3,h4,h5,h6{color:var(--secondarycolor) !important; font-family: "Source Code Pro",sans-serif;}
+a{color: var(--black);text-decoration: underline;}
 .title{color:var(--tertiarycolor) !important; font-family:"Source Code Pro",sans-serif !important;font-style: normal !important; font-weight: normal !important;}
 
 /* Sidebar */
