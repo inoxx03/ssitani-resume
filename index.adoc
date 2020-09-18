@@ -126,7 +126,7 @@ _since April 2020_
 _intermittently between February 2019 - January 2020_
 
 * Temporary technical writer position on RHMTA, working on an as-needed basis
-* Update, maintain, and publish product documentation and release notes for the RHAMT 4.2.1, 4.3.0 and 4.3.1
+* Update, maintain, and publish product documentation and release notes for the RHAMT 4.2.1, 4.3.0, and 4.3.1
 * Single-source documentation changes between the WINDUP community project and the RHMTA product documentation
 
 <<<
