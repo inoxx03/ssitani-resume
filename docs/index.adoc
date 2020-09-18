@@ -3,8 +3,8 @@
 :!toc:
 //:linkcss:
 //:imagesdir: images/
-//:stylesdir: css/
-//:stylesheet: print.css
+:stylesdir: stylesheets/
+:stylesheet: plain.css
 
 
 == Stefan Sitani
