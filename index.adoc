@@ -5,6 +5,8 @@
 //:imagesdir: images/
 :stylesdir: stylesheets/
 :stylesheet: monospace.css
+:docinfo:
+
 
 
 = Stefan Sitani
