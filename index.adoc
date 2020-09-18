@@ -6,7 +6,7 @@
 :stylesdir: stylesheets/
 :stylesheet: monospace.css
 :docinfo:
-
+:last-update-label!:
 
 
 = Stefan Sitani

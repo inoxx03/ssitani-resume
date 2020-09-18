@@ -42,6 +42,9 @@ h2,h3,h4,h5,h6{color:var(--secondarycolor) !important; font-family: "Source Code
 a{color: var(--black);text-decoration: underline;}
 .title{color:var(--tertiarycolor) !important; font-family:"Source Code Pro",sans-serif !important;font-style: normal !important; font-weight: normal !important;}
 
+/* Footer */
+.footer{background-color: var(--black);color: var(--white);}
+
 /* Sidebar */
 #toctitle{font-family: "Source Code Pro",sans-serif;}
 .sectlevel1{font-family: "Source Code Pro",sans-serif!important;}
