@@ -24,13 +24,11 @@ Brno, Czech Republic
 
 == Objectives
 
-As an Associate Content Strategist for Red{nbsp}Hat build of Quarkus, I can offer 5 years of experience in writing documentation for Red{nbsp}Hat products, including 10 months of experience that I have gained in my current role Senior Technical Writer with Red{nbsp}Hat build of Quarkus.
+As a candidate for the role of Associate Content Strategist for Red{nbsp}Hat build of Quarkus, I offer 5 years of experience in writing documentation for Red{nbsp}Hat products, including 10 months of experience that I have gained in my current role Senior Technical Writer with Red{nbsp}Hat build of Quarkus.
 
-With my current product experience and above-average relationships with stakeholders on the product and community sides of Quarkus, I believe that I would be at an advantageous position to resolves some of the specific issues concerning collaboration and unity of content between the product and the project documentation sets.
+With my current product experience and above-average relationships with stakeholders on both the product and the community side of Quarkus, I believe that I am at an advantageous position to further build trust between product and community stakeholders, and emphasize the value that delivering quality product documentation brings to the community project and the product alike. As a specific goal, I am to work to resolve the issues concerning collaboration between writers and engineers that Quarkus is currently facing, and to close the current gaps in the unity of content between the product and the project documentation sets. 
 
-Moreover, in my time of working on product documentation for Quarkus, I have actively engaged in building and managing relationships with community and product stakeholders. In collaboration with the team of writers on Red{nbsp}Hat Build of Quarkus, I have produced and published release notes for multiple minor and patch releases of the product, and regularly maintained published guides to ensure that they remain compliant with the Customer Content Services' standards for Flexible Customer content structuring and technical accuracy. I am currently representing CCS in the collaboration between the Quarkus community and Red{nbsp}Hat with the goal of redesigning the way we present Quarkus to community users an Red{nbsp}Hat customers. In this role I am also participating in making low- and mid-level strategic decisions about our content under the guidance of our Senior Content strategist.
-
-In my new role as Associate Content Strategist, I offer to represent Customer Content Services and our team of Red{nbsp}Hat Technical Writers in negotiations and strategic decision-making processes with the aim of improving the collaboration between project and product stakeholders and safeguarding the shared interest of delivering technically accurate usable and re-usable content that can be efficiently maintained an is fully compatible with Red{nbsp}Hat's new content management and publishing tools.
+In my new role as Associate Content Strategist, I intend to represent Customer Content Services and our team of Red{nbsp}Hat Technical Writers in negotiations and strategic decision-making processes with the aim of improving the collaboration between project and product stakeholders and safeguarding the shared interest of delivering technically accurate usable and re-usable content that can be efficiently maintained an is fully compatible with Red{nbsp}Hat's new content management and publishing tools.
 
 == Technical Writing Experience
 
@@ -49,7 +47,9 @@ _since November 2020_
 ** Plan the delivery of documentation content for new releases of RHBQ
 ** Verify and update published documentation content to match the development of the community project
 ** Prepare documentation content for migration to Pantheon V2
-* Work according to Agile methodology based on SCRUM
+** Make low-level strategic decisions about placement and structuring of product documentation content (with the guidance of the Senior CS)
+* Work according to Agile methodology based on SCRUM.
+* Track documentation issues in a JIRA project that is shared with product QE and Engineering stakeholders
 * Participate in coaching and onboarding a new team member
 
 *Senior Technical Writer*
