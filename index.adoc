@@ -24,27 +24,41 @@ Brno, Czech Republic
 
 == Objectives
 
-As a Senior Technical Writer on Quarkus documentation, I can offer 4 years of experience that I have gained as the co-author and maintainer of the documentation for Red Hat Cloud-Native Runtimes (formerly designated as Red Hat OpenShift Application Runtimes).
-//I am proficient in writing developer-oriented documentation content for creating Java-based and, to a lesser extent, JavaScript-based applications for deployment in OpenShift and Kubernetes.
-//I am also comfortable working with Maven, OpenJDK, CodeReady Studio, Minishift and Container Development Kit/CodeReady Containers and have experience with OpenShift both in the Web Console and using the `oc` (and to a lesser extent ODO) command-line tool.
-I have worked as a sole writer and maintainer of a documentation project, and also as part of a team where I collaborate with stakeholders from Customer Content Services and also from other functional areas of Red Hat PnT to make low- and medium-level strategic decisions to develop our documentation according to the current needs of the customers.
+As an Associate Content Strategist for Red{nbsp}Hat build of Quarkus, I can offer 5 years of experience in writing documentation for Red{nbsp}Hat products, including 10 months of experience that I have gained in my current role Senior Technical Writer with Red{nbsp}Hat build of Quarkus.
 
-//to further improve my knowledge of enterprise Java frameworks for cloud-native application development, focusing on the more recent and emerging technologies that are part of the ecosystem (such as GraalVM and OpenShift 4)
-In my new role, I aim to apply my current knowledge to write high-quality documentation content on advanced developer-oriented topics and to collaborate with other writers and stakeholders within and outside of Red Hat Middleware Runtimes to tackle documentation planning and content strategy-related decisions.
-I consider the recent shift of strategic focus at Red Hat towards providing managed services for the Open Hybrid Cloud as a particularly interesting challenge to navigate while working on documenting a dynamic and innovative product that Quarkus is.
+With my current product experience and above-average relationships with stakeholders on the product and community sides of Quarkus, I believe that I would be at an advantageous position to resolves some of the specific issues concerning collaboration and unity of content between the product and the project documentation sets.
+
+Moreover, in my time of working on product documentation for Quarkus, I have actively engaged in building and managing relationships with community and product stakeholders. In collaboration with the team of writers on Red{nbsp}Hat Build of Quarkus, I have produced and published release notes for multiple minor and patch releases of the product, and regularly maintained published guides to ensure that they remain compliant with the Customer Content Services' standards for Flexible Customer content structuring and technical accuracy. I am currently representing CCS in the collaboration between the Quarkus community and Red{nbsp}Hat with the goal of redesigning the way we present Quarkus to community users an Red{nbsp}Hat customers. In this role I am also participating in making low- and mid-level strategic decisions about our content under the guidance of our Senior Content strategist.
+
+In my new role as Associate Content Strategist, I offer to represent Customer Content Services and our team of Red{nbsp}Hat Technical Writers in negotiations and strategic decision-making processes with the aim of improving the collaboration between project and product stakeholders and safeguarding the shared interest of delivering technically accurate usable and re-usable content that can be efficiently maintained an is fully compatible with Red{nbsp}Hat's new content management and publishing tools.
 
 == Technical Writing Experience
 
-=== Red Hat
+=== Red{nbsp}Hat
 //.Brno, Czech Republic
 
 *Senior Technical Writer*
 
-.Red Hat Cloud-Native Runtimes (CNR)
-_since October 2019_
+.Red{nbsp}Hat build of Quarkus (RHBQ)
+_since November 2020_
+
+* Collaborate with Engineering and Quality Engineering stakeholders to address issues related to the technical accuracy of the documentation
+* Compile and publish release notes for 2 minor and 3 patch releases of RHBQ
+* Collaborate with a team of 3 Technical Writers, a Documentation Program Manager, and a Senior Content Strategist to:
+** Write documentation according to Flexible Customer Content guidelines
+** Plan the delivery of documentation content for new releases of RHBQ
+** Verify and update published documentation content to match the development of the community project
+** Prepare documentation content for migration to Pantheon V2
+* Work according to Agile methodology based on SCRUM
+* Participate in coaching and onboarding a new team member
+
+*Senior Technical Writer*
+
+.Red{nbsp}Hat Cloud-Native Runtimes (CNR)
+_October 2019 - October 2020_
 
 
-* Write, maintain, and publish the Documentation for Red Hat support for Spring Boot
+* Write, maintain, and publish the Documentation for Red{nbsp}Hat support for Spring Boot
 * Write documentation according to Flexible Customer Content guidelines
 * Collaborate with Documentation Program Manager and Content Strategist to:
 ** Plan the delivery of documentation content for new features on Spring Boot
@@ -55,7 +69,7 @@ _since October 2019_
 
 *Technical Writer*
 
-.Red Hat OpenShift Application Runtimes (RHOAR)
+.Red{nbsp}Hat OpenShift Application Runtimes (RHOAR)
 _June 2018 - September 2019_
 
 
@@ -70,30 +84,38 @@ _June 2018 - September 2019_
 
 *Associate Technical Writer*
 
-.Red Hat OpenShift Application Runtimes (RHOAR)
+.Red{nbsp}Hat OpenShift Application Runtimes (RHOAR)
 _Feb 2017 - May 2018_
 
 
 * Maintain Community documentation for application development with OpenShift and Fabric8 Launcher.
-* Share content between community documentation and product documentation on the Red Hat Customer Portal.
+* Share content between community documentation and product documentation on the Red{nbsp}Hat Customer Portal.
 * Write procedures for using example applications based on Spring Boot, Thorntail and Eclipse Vert.x, and Node.js.
 * Write documentation for deploying applications using the Fabric8 Maven Plugin
-* Collaborate with the Principal Writer in creating the documentation set for a new Red Hat Middleware product.
-* Create and maintain release notes for all Red Hat OpenShift Application Runtimes
+* Collaborate with the Principal Writer in creating the documentation set for a new Red{nbsp}Hat Middleware product.
+* Create and maintain release notes for all Red{nbsp}Hat OpenShift Application Runtimes
 
 
 *Technical Writer Intern*
 
-.Red Hat Mobile Application Platform
+.Red{nbsp}Hat Mobile Application Platform
 _May 2016 - January 2017_ +
 
-
-* Maintain documentation for Red Hat Mobile application platform
+* Maintain documentation for Red{nbsp}Hat Mobile application platform
 * Perform maintenance tasks and minor enhancements to documentation
-* Convert community documentation in Markdown to AsciiDoc for publishing on the Red Hat Customer Portal
+* Convert community documentation in Markdown to AsciiDoc for publishing on the Red{nbsp}Hat Customer Portal
 * Align the delivery of documentation updates with he SCRUM development cycle of the product
 
 == Other Published Content
+
+.Red{nbsp}Hat Supplementary Style Guide
+
+_first published August 2020 with regular monthly updates_
+
+* Wrote section on using AsciiDoc attributes for substituting product names and versions
+* Added other smaller contributions and updates to various chapters of the guide
+* Periodcally serve as the repository administrator for the guide on a rotating schedule
+* Co-leading the initiative in collaboration with Andrea Hoffer
 
 .AsciiDoc Tutorial
 
@@ -101,7 +123,7 @@ _published May 2017_
 
 * Created in collaboration with Jiri Herrmann
 * Part 1 covers basic recommended practices for writing content in AsciiDoc
-* An example documentation repository where newly hired writers can practice writing content with AsciiDoc and building it using Red Hat and community-based tools.
+* An example documentation repository where newly hired writers can practice writing content with AsciiDoc and building it using Red{nbsp}Hat and community-based tools.
 
 .AsciiDoc Tutorial, Part 2
 
@@ -119,9 +141,9 @@ _published September 2018_
 _since April 2020_
 
 * Organize writers from products in Middleware Runtimes to restructure product documentation according to Flexible Customer Content guidelines
-* Work with documentation project owners within Red Hat and in communities outside of Red Hat to plan the restructuring effort and align it with the specific contribution guidelines of each project.
+* Work with documentation project owners within Red{nbsp}Hat and in communities outside of Red{nbsp}Hat to plan the restructuring effort and align it with the specific contribution guidelines of each project.
 
-.Maintaining Documentation for Red Hat Migration Tool for Applications
+.Maintaining Documentation for Red{nbsp}Hat Migration Tool for Applications
 
 _intermittently between February 2019 - January 2020_
 
@@ -137,10 +159,10 @@ Markup languages::
 ** AsciiDoc, Markdown, DocBook 5, HTML
 
 Publishing tools::
-** Red Hat Pantheon, AsciiDoctor, GitHub Pages, Errata Tool, Customer Portal
+** Red{nbsp}Hat Pantheon, AsciiDoctor, GitHub Pages, Errata Tool, Customer Portal
 
 Issue Tracking Tools::
 ** JIRA, Bugzilla
 
 Developer Tools & Platforms::
-** Maven, MiniShift, CodeReady Containers, Openshift 3.x, Red Hat Enterprise Linux 7, `oc`
+** Maven, MiniShift, CodeReady Containers, Openshift 3.x, Red{nbsp}Hat Enterprise Linux 7, `oc`
