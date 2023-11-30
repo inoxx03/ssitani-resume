@@ -16,12 +16,13 @@
 //+420 775 169 615 +
 //He/Him
 ssitani@redhat.com +
-IRC: ssitani +
+//IRC: ssitani +
 GitHub: link:https://github.com/inoxx03[inoxx03^] +
 Brno, Czech Republic
-//stefan.sitani@gmail.com
+stefan.sitani@gmail.com
 //TODO: Add image icons with hyperlinks to GH, Internal GL, Rover, Linkedin, etc.
 
+////
 == Objectives
 
 As a Senior Technical Writer on Quarkus documentation, I can offer 4 years of experience that I have gained as the co-author and maintainer of the documentation for Red Hat Cloud-Native Runtimes (formerly designated as Red Hat OpenShift Application Runtimes).
@@ -32,16 +33,37 @@ I have worked as a sole writer and maintainer of a documentation project, and al
 //to further improve my knowledge of enterprise Java frameworks for cloud-native application development, focusing on the more recent and emerging technologies that are part of the ecosystem (such as GraalVM and OpenShift 4)
 In my new role, I aim to apply my current knowledge to write high-quality documentation content on advanced developer-oriented topics and to collaborate with other writers and stakeholders within and outside of Red Hat Middleware Runtimes to tackle documentation planning and content strategy-related decisions.
 I consider the recent shift of strategic focus at Red Hat towards providing managed services for the Open Hybrid Cloud as a particularly interesting challenge to navigate while working on documenting a dynamic and innovative product that Quarkus is.
+////
 
 == Technical Writing Experience
 
 === Red Hat
 //.Brno, Czech Republic
 
+*Content Strategist*
+
+.Red Hat build of Quarkus
+_November 2021 - November 2023_
+
+* Lead a team of Senior Technical Writers to optimize documentation production and maintenance in collaboration with an open-source community.
+* Lead a team of writers to prototype content templates for a new modular documentation framework.
+* Act as a documentation advocate within the Quarkus community.
+* Collaborate with a documentation program manager in estimating workload for documentation production in each product release cycle.
+* Represented documentation in periodic cross-functional release planning.
+
 *Senior Technical Writer*
 
-.Red Hat Cloud-Native Runtimes (CNR)
-_since October 2019_
+.Red Hat build of Quarkus
+_ June 2020 - October 2021_
+
+* Maintain product documentation content.
+* Document critical release-related information for customers.
+* Coordinate content creation, content quality assurance, and publishing in a cross-functional team.
+
+*Senior Technical Writer*
+
+.Red Hat Cloud-Native Runtimes
+_October 2019 - May 2020_
 
 
 * Write, maintain, and publish the Documentation for Red Hat support for Spring Boot
@@ -93,6 +115,8 @@ _May 2016 - January 2017_ +
 * Convert community documentation in Markdown to AsciiDoc for publishing on the Red Hat Customer Portal
 * Align the delivery of documentation updates with he SCRUM development cycle of the product
 
+////
+
 == Other Published Content
 
 .AsciiDoc Tutorial
@@ -130,17 +154,36 @@ _intermittently between February 2019 - January 2020_
 * Single-source documentation changes between the WINDUP community project and the RHMTA product documentation
 
 <<<
+////
 
 == Languages and Tools
 
 Markup languages::
-** AsciiDoc, Markdown, DocBook 5, HTML
+** AsciiDoc, Markdown, DocBook 5, HTML, CSS, DITA, Latex (basics)
+
+Scripting languages::
+** Python 3 (basics), Bash
 
 Publishing tools::
-** Red Hat Pantheon, AsciiDoctor, GitHub Pages, Errata Tool, Customer Portal
+** Antora, ReadTheDocs, AsciiDoctor, GitHub Pages, Confluence, Javadoc, Jekyll, AsciiBinder
 
-Issue Tracking Tools::
-** JIRA, Bugzilla
+Project management tools::
+** JIRA, Bugzilla, Github Issues, Overbard, Zenhub
 
-Developer Tools & Platforms::
-** Maven, MiniShift, CodeReady Containers, Openshift 3.x, Red Hat Enterprise Linux 7, `oc`
+Version control & source management::
+** GitHub, GitLab, Pagure.io
+
+Build & packaging tools::
+** Maven, Gradle, Make (basics), RPM
+
+Operating Systems & Platforms::
+** Microsoft Windows, Linux, OpenShift
+
+Container Tools::
+** Docker, Podman
+
+
+== Courses and certifications
+
+* IBM Design Thinking Practitioner
+** Completed September 2023
